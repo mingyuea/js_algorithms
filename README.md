@@ -1,0 +1,1 @@
+These are a collection of sorting algorithms, written in JS, purely for the sake of practicing writting then in JS. 
